@@ -1,1 +1,3 @@
-  This is just a simple "Meme Generator."  You type your first and second caption.  I plan to expand upon this to add an option to upload unique pictures.
+  This is just a simple "Meme Generator."  You type your first and second caption.  
+  
+  I plan to expand upon this to add an option to upload unique pictures.
